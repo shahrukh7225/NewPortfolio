@@ -1,0 +1,54 @@
+
+.A{
+    margin: 0px;
+    padding: 20px 100px;
+}
+
+#B{
+    text-align: center;    /* About us laae centre maa liyaawo nah */ 
+    text-decoration: underline;
+}
+
+#C{
+    width: 100%;       /*  avilable width thakh hos bhnai rah */
+    height: auto;
+    margin: 0 auto;
+}
+        
+#D{
+    font-size: 18px;
+    text-align: justify; /* text to last maa vako ziz zag bhand bho */
+}
+
+.btnn{
+    width: 20px;
+    height: 20px;
+    display: inline-block;   /*  bcoz span no new line and no height n width lincha so we will change display into inline-blocl */
+    border: solid grey 2px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+#color-switcher{
+    text-align: right;
+}
+
+#white{
+    background-color: white;
+
+}
+
+#aqua{
+    background-color: aquamarine ;
+            
+}
+
+#voilet{
+    background-color: #ce9aff;
+            
+}
+
+#black{
+    background-color: black;
+            
+}
